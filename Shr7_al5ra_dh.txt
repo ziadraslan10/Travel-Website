@@ -1,0 +1,42 @@
+npm i aos ==>  make Animation
+
+in App == > 
+  React.useEffect(() => {
+    AOS.init({
+      offset: 100,
+      duration: 900,
+      easing: "ease-in-sine",
+      delay: 100,
+    });
+    AOS.refresh();
+  }, []);
+
+  in any components
+      data-aos="fade-up"
+      data-aos-delay="600"
+
+  =========================================================================
+
+<Navbar/>
+  
+  <Layout/> 
+     
+<footer/>
+
+
+
+
+Home ==> 
+        <Hero />
+        <Places />  ==> PlacesCart
+        <BannerPic />
+        <BlogsComp />   ==> BlogCart   in Blogs
+        <Banner />
+        <BannerPic  />
+        <Testimonial />
+        <OrderPopup />
+
+
+      
+
+
