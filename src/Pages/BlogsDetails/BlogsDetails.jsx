@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
 import { useLocation } from "react-router-dom";
-import BlogsComp from "../../components/Blogs/BlogsComp";
+import BlogsComp from "../../Components/Blogs/BlogsComp";
 
 const BlogsDetails = (props) => {
   const location = useLocation();
