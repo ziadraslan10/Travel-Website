@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import { Outlet } from 'react-router-dom'
 import Navbar from "../../Components/Navbar/Navbar"
 import Footer from "../../Components/Footer/Footer"
-import OrderPopup from "../../components/OrderPopup/OrderPopup";
+import OrderPopup from "../../Components/OrderPopup/OrderPopup"
 
 
 

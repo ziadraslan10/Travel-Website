@@ -4,7 +4,7 @@ import Hero from "../../Components/Hero/Hero";
 import mainVideo from "../../assets/video/main.mp4";
 import BlogsComp from "../../components/Blogs/BlogsComp";
 import Places from "../../components/Places/Places";
-// import Testimonial from "../../components/Testimonial/Testimonial";
+import Testimonial from "../../components/Testimonial/Testimonial";
 import Banner from "../../components/Banner/Banner";
 import BannerPic from "../../components/BannerPic/BannerPic";
 import BannerImg from "../../assets/cover-women.jpg";
@@ -36,7 +36,7 @@ const Home = () => {
         <BlogsComp />
         <Banner />
         <BannerPic img={Banner2} />
-        {/* <Testimonial /> */}
+        <Testimonial />
         <OrderPopup orderPopup={orderPopup} setOrderPopup={setOrderPopup} />
       </div>
     </>
