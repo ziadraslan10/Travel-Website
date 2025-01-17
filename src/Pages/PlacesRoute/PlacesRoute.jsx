@@ -1,5 +1,5 @@
 import React from "react";
-import Places from "../../components/Places/Places";
+import Places from "../../Components/Places/Places";
 import OrderPopup from "../../Components/OrderPopup/OrderPopup";
 
 const PlacesRoute = () => {

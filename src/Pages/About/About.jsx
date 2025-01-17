@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import BlogsComp from "../../components/Blogs/BlogsComp";
-import Location from "../../components/Location/Location";
+import BlogsComp from "../../Components/Blogs/BlogsComp";
+import Location from "../../Components/Location/Location"
 
 const About = () => {
   return (
