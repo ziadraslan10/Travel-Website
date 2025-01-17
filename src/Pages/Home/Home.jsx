@@ -7,7 +7,7 @@ import Places from "../../Components/Places/Places";
 import Testimonial from "../../Components/Testimonial/Testimonial";
 import Banner from "../../Components/Banner/Banner";
 import BannerPic from "../../Components/BannerPic/BannerPic";
-import BannerImg from "../../assets/Cover-women.jpg";
+import BannerImg from "../../assets/cover-women.jpg";
 import Banner2 from "../../assets/travel-cover2.jpg";
 import OrderPopup from "../../Components/OrderPopup/OrderPopup";
 
